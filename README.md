@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Devops and DevSecOps**
+- 🌱 I’m currently learning **Open to Work**
 
 - 📫 How to reach me **bougachaahmed98@gmail.com**
 
