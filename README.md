@@ -21,9 +21,7 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a> <a href="https://www.openshift.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40"/>
-  </a> <a href="https://azure.microsoft.com/en-us/solutions/devops/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/azure_devops/azure_devops-icon.svg" alt="devops" width="40" height="40"/>
-  </a>
+  </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed2-5&show_icons=true&locale=en&layout=compact" alt="ahmed2-5" /></p>
