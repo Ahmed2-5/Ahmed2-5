@@ -24,7 +24,11 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed2-5&show_icons=true&locale=en&layout=compact" alt="ahmed2-5" /></p>
+## 📊 GitHub Stats:
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed2-5&theme=default&hide_border=false)
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed2-5&show_icons=true&locale=en" alt="ahmed2-5" /></p>
 
