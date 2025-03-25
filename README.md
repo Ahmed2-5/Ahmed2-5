@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Open to Work**
+- 🌱 🌱 I’m currently **looking for a job**
 
 - 📫 How to reach me **bougachaahmed98@gmail.com**
 
