@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Full Stack & AI 🚀</h3>
 
 <p align="center">
-  📍 Modena, Italy &nbsp;|&nbsp; 🎓 MSc Computer Science @ UNIMORE &nbsp;|&nbsp; 🛠️ Software Engineering degree @ ESPRIT
+  📍 Modena, Italy &nbsp;|&nbsp; 🎓 MSc Computer Science @ <a href="https://www.unimore.it/it" target="_blank">UNIMORE</a> &nbsp;|&nbsp; 🛠️ Software Engineering degree @ <a href="https://esprit.tn" target="_blank">ESPRIT</a>
 </p>
 
 ---
@@ -71,9 +71,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed2-5&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed2-5&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/Ahmed2-5?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/Ahmed2-5" alt="Ahmed2-5 contribution graph" />
 </p>
